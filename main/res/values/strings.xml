@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">database</string>
+    <string name="edit_text_hint">Entrer le nom</string>
+    <string name="button_insert_text">Ajouter</string>
+    <string name="text_view_text">Utilisateur</string>
+    <string name="button_delete_text">Supprimer le utilisateur sélectionné</string>
+    <string name="database_name">users_db</string>
+    <string name="database_table">users_table</string>
+    <string name="database_column_id">id</string>
+    <string name="database_column_name">name</string>
+    <string name="database_column_names">names</string>
+    <string name="spinner_prompt">Sélectionnez le utilisateur à supprimer</string>
+</resources>
